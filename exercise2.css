@@ -1,0 +1,9 @@
+body{background-color:red}
+.forul{
+  color: green;
+  font-style: italic;
+}
+.forli{
+  display: inline;
+  font-size: 30px;
+}
