@@ -1,0 +1,11 @@
+#p1{
+position:fixed;
+left:50px
+}
+#p2{
+  position:absolute;
+  right:50px
+}
+#p3{
+  position:relative;
+}
