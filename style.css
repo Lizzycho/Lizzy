@@ -1,15 +1,9 @@
-div p {font-weight: bold;}
-p.myStyle{color:red;}
-h1 ~ p { color:red; }
-p + p { color:blue; }
-.box{
-margin-top:20px;
-margin-right:10%;
-margin-bottom:20px;
-margin-left:10%;
-
-border-width: thick;
-border-color: black;
-border: black 3px solid;
-padding: 10px 20% 10px 20%;
+.p1,.p3 {
+color: green;
 }
+
+.p2,.p4 {
+color: blue;
+}
+
+ .div1 .p5,.p6 {color:purple;}
